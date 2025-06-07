@@ -1,54 +1,63 @@
 # 👋 Hi, I'm Anh Nguyen
 
-I’m a Software Engineer and Computer Science student at Drexel University with hands-on experience across cloud infrastructure, data pipelines, and full-stack systems. I enjoy building scalable backend services, production-grade ML pipelines, and developer tools that ship.
+I’m a systems-focused software engineer who thrives at the intersection of cloud infrastructure, data engineering, and machine learning. Whether I’m automating Kubernetes deployments, visualizing GitHub analytics for 5,000+ users, or publishing research on LLM security, I aim to build tools that are technically sound and practically impactful.
+
+I believe great engineering isn’t just about writing code — it’s about solving the right problems with clarity, efficiency, and a sense of purpose.
 
 ---
 
-## 🔧 Core Competencies
+## 🛠️ Tech Stack at a Glance
 
-- **Languages & Tools:** Python, Java, C++, Bash, TypeScript, JavaScript, React, Next.js, Spring Boot, REST, GraphQL  
-- **Cloud & DevOps:** AWS, Azure, Docker, Kubernetes, GitHub Actions, Linux, Terraform, Prometheus, Grafana, Flux  
-- **Data & ML:** SQL, MongoDB, Snowflake, pandas, NumPy, scikit-learn, TensorFlow, PyTorch, Tableau, Power BI  
+- **Languages & Tools:** Python, Java, C++, TypeScript, JavaScript, Bash, React, Next.js, Spring Boot, GraphQL  
+- **DevOps & Cloud:** Linux, Docker, Kubernetes, GitHub Actions, AWS, Azure, Terraform, Prometheus, Grafana, Flux  
+- **Data & ML:** SQL, MongoDB, Snowflake, pandas, scikit-learn, TensorFlow, PyTorch, Tableau, Power BI
 
 ---
 
 ## 💼 Experience Highlights
 
-### Apollo Global Management – *Software Engineer Intern*
-- Migrated firm-wide app for 5,000+ users to Azure Kubernetes; added real-time monitoring with Prometheus/Grafana and secure OAuth, cutting latency by 75%
-- Automated Kubernetes deployments across 8+ teams using Docker, Flux, GitHub Actions, and Bash
-- Built GitHub analytics platform (Python + Snowflake), creating 15+ Tableau dashboards adopted by C-suite, driving 25% GitHub adoption boost
+### 🏢 Apollo Global Management  
+*Software Engineer Intern* | New York, NY  
+- Migrated firm-wide app to Azure Kubernetes; added Prometheus/Grafana monitoring and OAuth login, cutting latency by 75% and achieving 99.99% uptime  
+- Automated Kubernetes deployments across 8+ teams using Docker, Flux, GitHub Actions, and Bash  
+- Built internal GitHub analytics platform and 15 Tableau dashboards to support 5,000+ users, boosting migration adoption by 25%
 
-### Kulicke and Soffa – *Software Engineer Intern*
-- Refactored robotic telemetry systems in Java/Spring Boot and AWS, saving $20K+/year in cloud costs
-- Integrated Redis-backed ML inference services using TensorFlow + scikit-learn, improving QA defect detection by 15%
+### 🦾 Kulicke and Soffa  
+*Software Engineer Intern* | Philadelphia, PA  
+- Refactored telemetry pipelines (Java/Spring Boot + AWS), saving $20K/year in cloud spend  
+- Built ML inference services with TensorFlow + Redis, improving model accuracy by 25%  
+- Created REST APIs and unit tests to support 20+ robotic factory tools
 
-### CurveBeam AI – *Software Engineer Intern*
-- Developed secure imaging dashboards in Next.js + TypeScript; reduced diagnostic load times by 40% for 300+ clinicians
-- Optimized C++/Python X-ray processing across 120 machines, improving throughput for 50+ patients/day
-
----
-
-## 📌 Featured Projects
-
-- **Step Up Tutoring**: Built a scalable tutoring platform using React, Firebase, Docker — enabling access for 750+ K–12 students  
-- **Pixel Odyssey**: Led a 2D Unity game project in C++/Git, implementing AI pathfinding and optimizing render performance by 30%  
+### 🧪 SOAR Labs  
+*Published Author* | Drexel University  
+- Co-authored a peer-reviewed study in *Empirical Software Engineering (Springer, 2025)* on LLM code generation risks using GPT-4, Claude 3, and LLaMA 3  
+- Used `pandas` and `scikit-learn` to analyze 2,400+ code samples, surfacing 85% of flaws and informing best practices
 
 ---
 
-## 🧪 Research
+## 🌱 Projects That Matter
 
-Co-authored a peer-reviewed paper in *Empirical Software Engineering (Springer)* analyzing 2,400+ LLM code generations across GPT-4, Claude 3, and LLaMA 3.  
-> 🔗 [Read the paper](https://link.springer.com/article/10.1007/s10664-025-10658-6)
-
----
-
-## 📫 Let’s Connect
-
-- 🔗 [LinkedIn](https://linkedin.com/in/anh-nguyen-drexel)
-- 📄 [Resume](https://example.com/your-resume.pdf)
-- 🌐 [Portfolio](https://example.com)
+- **Step Up Tutoring**  
+  A React/Firebase platform supporting 750+ K–12 students with online learning  
+- **Pixel Odyssey**  
+  Unity game built with C++ and Git; implemented AI pathfinding and improved rendering performance by 30%
 
 ---
 
-*Building secure systems. Optimizing pipelines. Scaling impact.*
+## 📚 Currently Exploring
+
+- MLOps pipelines & infrastructure-as-code best practices  
+- Safe and transparent AI through tooling + evaluation  
+- How climate data can inform real-time systems and policy  
+
+---
+
+## 🔗 Let’s Connect
+
+- [LinkedIn](https://linkedin.com/in/anh-nguyen-drexel)  
+- [Resume](https://example.com/your-resume.pdf)  
+- [Research](https://link.springer.com/article/10.1007/s10664-025-10658-6)
+
+---
+
+*"Code that scales. Tools that last. Ideas that make a difference."*
