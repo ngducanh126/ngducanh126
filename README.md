@@ -33,6 +33,16 @@ I’m earning my B.S. in Computer Science at Drexel University and have built fu
 **Drexel University | Jan 2024 – Aug 2024**  
 - Co-authored a peer-reviewed study published in *Empirical Software Engineering (Springer, 2025)*, revealing security gaps in 2,430 LLM-generated code snippets across GPT-4, Claude 3, and LLaMA 3  
 - Built custom LLM evaluation tooling using pandas and scikit-learn to detect and categorize unsafe code patterns
+ 
+### 🩻 CurveBeam AI — *Software Engineer Intern*
+
+**Hatfield, PA | Sep 2023 – Mar 2024**
+
+- Developed real-time visualization tools in Python and Matplotlib, improving orthopedic scan workflows and cutting image-processing time by 35% for 200+ clinic users
+
+- Optimized SQL queries to sync and manage 1,000+ medical data points/hour, increasing data accuracy and cutting operational complaints by 50%
+
+- Delivered user-driven UI updates for 3D imaging software based on feedback from medical operators, boosting usability and preserving core diagnostic features
 
 ---
 
@@ -60,7 +70,3 @@ I’m earning my B.S. in Computer Science at Drexel University and have built fu
 - 📱 [+1 (215) 669-5148](tel:+12156695148)  
 - 💼 [LinkedIn](https://linkedin.com/in/anh-nguyen-drexel)  
 - 🧪 [Springer Research Paper](https://link.springer.com/article/10.1007/s10664-025-10658-6)  
-
----
-
-*“I build clean, scalable, and human-centered software — backed by strong engineering and driven by purpose.”*
