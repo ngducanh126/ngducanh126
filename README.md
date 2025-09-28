@@ -23,8 +23,9 @@ I’m earning my B.S. in Computer Science at Drexel University and have built fu
 ### 🚀 Apollo Global Management — *Software Engineer Intern*  
 **New York, NY | Mar 2025 – Present**  
 - Spearheaded the migration of a global developer tool to Azure Kubernetes with real-time monitoring and OAuth integration — cutting latency by 75% and ensuring 99.99% uptime for 5,000+ internal users  
-- Built a GitHub analytics platform using Python and Temporal; created 15 interactive Tableau dashboards to support executive decision-making and boost GitHub adoption by 25%  
-- Automated multi-team deployments using Docker, FluxCD, and GitHub Actions, saving 40+ engineer hours/month
+- Automated Kubernetes deployments across 8+ teams using Docker, Flux, GitHub Actions, and Bash scripts on
+Linux, reducing deployment time by 70% and saving 40+ engineer hours/month
+- Engineered AI-driven DevOps agents with Azure AI Foundry and OpenAI; embedded telemetry and infra logs using GitHub Model Context Protocol to automate triage and reduce incident resolution time by 60%.
 
 ### ⚙️ Kulicke and Soffa Industries — *Software Engineer Intern*  
 **Philadelphia, PA | Apr 2024 – Sep 2024**  
