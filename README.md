@@ -51,7 +51,7 @@ I’m earning my B.S. in Computer Science at Drexel University and have built fu
   Developed a **full-stack tutoring platform** (**React**, **TypeScript**, **Firebase**, **Docker**) supporting **750+** K–12 students with remote learning access  
 
 - **Pixel Odyssey**  
-  Led a team of **4** to build a **2D Unity game** (**C++**, **Git**); implemented **AI pathfinding** and boosted render speed by **30%**
+  Led a team of **4** to build a **2D Unity game** (**C#**, **Git**); implemented **AI pathfinding** and boosted render speed by **30%**
 
 
 ---
