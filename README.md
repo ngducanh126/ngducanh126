@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Anh Nguyen
 
-I’m a full-stack engineer with a passion for building high-impact, production-ready applications — from blazing-fast frontends to scalable cloud-native backends. I specialize in designing systems that not only work, but drive measurable outcomes: reducing latency, improving user experience, and unlocking data-driven decisions.
+I’m a full-stack engineer who loves building apps that make a real difference — from fast, polished frontends to reliable cloud backends. I focus on systems that don’t just run, but deliver results: faster load times, smoother experiences, and smarter use of data.
 
-Currently pursuing my B.S. in Computer Science at Drexel University, I’ve delivered full-stack systems and dev tools used by 5,000+ users across fintech, medtech, and research. I care deeply about clean code, fast iteration, and building things that matter.
+I’m earning my B.S. in Computer Science at Drexel University and have built full-stack tools used by 5,000+ users in fintech, medtech, and research. I care about writing clean code, iterating quickly, and creating products that truly matter.
 
 ---
 
@@ -23,7 +23,7 @@ Currently pursuing my B.S. in Computer Science at Drexel University, I’ve deli
 - Built a GitHub analytics platform using Python and Temporal; created 15 interactive Tableau dashboards to support executive decision-making and boost GitHub adoption by 25%  
 - Automated multi-team deployments using Docker, FluxCD, and GitHub Actions, saving 40+ engineer hours/month
 
-### 🏭 Kulicke and Soffa Industries — *Software Engineer Intern*  
+### ⚙️ Kulicke and Soffa Industries — *Software Engineer Intern*  
 **Philadelphia, PA | Apr 2024 – Sep 2024**  
 - Designed ML-backed production services for 120+ factory machines using TensorFlow and Redis, improving model inference accuracy by 25%  
 - Reduced cloud costs by over $20K/year by refactoring Spring Boot telemetry pipelines and optimizing AWS storage  
