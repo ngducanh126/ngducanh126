@@ -8,10 +8,13 @@ I’m earning my B.S. in Computer Science at Drexel University and have built fu
 
 ## 🛠️ Tech Stack & Tools
 
-**Frontend:** React, Next.js, TypeScript, JavaScript, Tailwind, GraphQL  
-**Backend:** Spring Boot (Java), Flask (Python), Redis, REST APIs, OAuth, API Gateway  
-**DevOps & Cloud:** Docker, Kubernetes, GitHub Actions, AWS, Azure, Terraform, Prometheus, Grafana  
-**Data & ML:** SQL, MongoDB, Snowflake, pandas, scikit-learn, TensorFlow, Tableau, Power BI  
+**Frontend:** React, Next.js, TypeScript, JavaScript, Tailwind CSS, GraphQL, Redux, HTML/CSS  
+
+**Backend:** Spring Boot (Java), Flask (Python), Node.js, REST & GraphQL APIs, OAuth2.0, API Gateway, Redis, gRPC  
+
+**DevOps & Cloud:** Docker, Kubernetes (AKS/EKS), GitHub Actions, FluxCD, Terraform, AWS (Lambda, S3, EC2, CloudWatch), Azure (AKS, Monitor), Prometheus, Grafana, Temporal  
+
+**Data & ML:** SQL (PostgreSQL, MySQL), MongoDB, Snowflake, pandas, NumPy, scikit-learn, TensorFlow, Power BI, Tableau, data pipelines & ETL, real-time telemetry analytics
 
 ---
 
