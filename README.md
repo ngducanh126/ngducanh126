@@ -21,42 +21,38 @@ I’m earning my B.S. in Computer Science at Drexel University and have built fu
 ## 💼 Industry Experience
 
 ### 🚀 Apollo Global Management — *Software Engineer Intern*  
-**New York, NY | Mar 2025 – Present**  
-- Orchestrated the migration of a firm-wide app for 5,000+ users to Azure Kubernetes; added secure OAuth and real-time Prometheus/Grafana monitoring, reducing latency by 75% and achieving 99.99% uptime 
-- Automated Kubernetes deployments across 8+ teams using Docker, Flux, GitHub Actions, and Bash scripts on
-Linux, reducing deployment time by 70% and saving 40+ engineer hours/month
-- Engineered AI-driven DevOps agents with Azure AI Foundry and OpenAI; embedded telemetry and infra logs using GitHub Model Context Protocol to automate triage and reduce incident resolution time by 60%.
+**New York, NY | Mar **2025** – Present**  
+- Orchestrated the migration of a firm-wide app for **5,000+** users to **Azure Kubernetes**; added secure **OAuth** and real-time **Prometheus/Grafana** monitoring, reducing latency by **75%** and achieving **99.99% uptime**  
+- Automated **Kubernetes** deployments across **8+** teams using **Docker**, **Flux**, **GitHub Actions**, and **Bash** scripts on **Linux**, reducing deployment time by **70%** and saving **40+ engineer hours/month**  
+- Engineered AI-driven DevOps agents with **Azure AI Foundry** and **OpenAI**; embedded telemetry and infra logs using **GitHub Model Context Protocol** to automate triage and reduce incident resolution time by **60%**
 
 ### ⚙️ Kulicke and Soffa Industries — *Software Engineer Intern*  
-**Philadelphia, PA | Apr 2024 – Sep 2024**  
-- Designed ML-backed production services for 120+ factory machines using TensorFlow and Redis, improving model inference accuracy by 25%  
-- Reduced cloud costs by over $20K/year by refactoring Spring Boot telemetry pipelines and optimizing AWS storage  
-- Shipped scalable REST APIs with Java and AWS Lambda, reducing latency by 30% across 20+ robotic tools
+**Philadelphia, PA | Apr **2024** – Sep **2024****  
+- Designed **ML-backed** production services for **120+** factory machines using **TensorFlow** and **Redis**, improving model inference accuracy by **25%**  
+- Reduced cloud costs by over **$20K/year** by refactoring **Spring Boot** telemetry pipelines and optimizing **AWS** storage  
+- Shipped scalable **REST APIs** with **Java** and **AWS Lambda**, reducing latency by **30%** across **20+** robotic tools
 
 ### 🔬 SOAR Labs — *Researcher & Published Author*  
-**Drexel University | Jan 2024 – Aug 2024**  
-- Co-authored a peer-reviewed study published in *Empirical Software Engineering (Springer, 2025)*, revealing security gaps in 2,430 LLM-generated code snippets across GPT-4, Claude 3, and LLaMA 3  
-- Built custom LLM evaluation tooling using pandas and scikit-learn to detect and categorize unsafe code patterns
- 
-### 🩻 CurveBeam AI — *Software Engineer Intern*
+**Drexel University | Jan **2024** – Aug **2024****  
+- Co-authored a peer-reviewed study published in *Empirical Software Engineering (Springer, **2025**)*, revealing security gaps in **2,430** **LLM-generated code snippets** across **GPT-4**, **Claude 3**, and **LLaMA 3**  
+- Built custom **LLM evaluation tooling** using **pandas** and **scikit-learn** to detect and categorize unsafe code patterns
 
-**Hatfield, PA | Sep 2023 – Mar 2024**
-
-- Developed real-time visualization tools in Python and Matplotlib, improving orthopedic scan workflows and cutting image-processing time by 35% for 200+ clinic users
-
-- Optimized SQL queries to sync and manage 1,000+ medical data points/hour, increasing data accuracy and cutting operational complaints by 50%
-
-- Delivered user-driven UI updates for 3D imaging software based on feedback from medical operators, boosting usability and preserving core diagnostic features
+### 🩻 CurveBeam AI — *Software Engineer Intern*  
+**Hatfield, PA | Sep **2023** – Mar **2024****  
+- Developed real-time visualization tools in **Python** and **Matplotlib**, improving orthopedic scan workflows and cutting image-processing time by **35%** for **200+** clinic users  
+- Optimized **SQL** queries to sync and manage **1,000+** medical data points/hour, increasing data accuracy and cutting operational complaints by **50%**  
+- Delivered user-driven **UI updates** for **3D imaging software** based on feedback from medical operators, boosting usability and preserving core diagnostic features
 
 ---
 
 ## 🧩 Selected Projects
 
 - **Step Up Tutoring**  
-  Developed a full-stack tutoring platform (React, TypeScript, Firebase, Docker) supporting 750+ K–12 students with remote learning access
+  Developed a **full-stack tutoring platform** (**React**, **TypeScript**, **Firebase**, **Docker**) supporting **750+** K–12 students with remote learning access  
 
 - **Pixel Odyssey**  
-  Led a team of 4 to build a 2D Unity game (C++, Git); implemented AI pathfinding and boosted render speed by 30%
+  Led a team of **4** to build a **2D Unity game** (**C++**, **Git**); implemented **AI pathfinding** and boosted render speed by **30%**
+
 
 ---
 
