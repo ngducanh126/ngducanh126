@@ -22,7 +22,7 @@ I’m earning my B.S. in Computer Science at Drexel University and have built fu
 
 ### 🚀 Apollo Global Management — *Software Engineer Intern*  
 **New York, NY | Mar 2025 – Present**  
-- Spearheaded the migration of a global developer tool to Azure Kubernetes with real-time monitoring and OAuth integration — cutting latency by 75% and ensuring 99.99% uptime for 5,000+ internal users  
+- Orchestrated the migration of a firm-wide app for 5,000+ users to Azure Kubernetes; added secure OAuth and real-time Prometheus/Grafana monitoring, reducing latency by 75% and achieving 99.99% uptime 
 - Automated Kubernetes deployments across 8+ teams using Docker, Flux, GitHub Actions, and Bash scripts on
 Linux, reducing deployment time by 70% and saving 40+ engineer hours/month
 - Engineered AI-driven DevOps agents with Azure AI Foundry and OpenAI; embedded telemetry and infra logs using GitHub Model Context Protocol to automate triage and reduce incident resolution time by 60%.
