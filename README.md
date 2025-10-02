@@ -28,19 +28,18 @@ I’m earning my B.S. in Computer Science at Drexel University and have built fu
 
 ### ⚙️ Kulicke and Soffa Industries — *Software Engineer Intern*  
 **Philadelphia, PA | Apr **2024** – Sep **2024****  
-- Designed **ML-backed** production services for **120+** factory machines using **TensorFlow** and **Redis**, improving model inference accuracy by **25%**  
-- Reduced cloud costs by over **$20K/year** by refactoring **Spring Boot** telemetry pipelines and optimizing **AWS** storage  
-- Shipped scalable **REST APIs** with **Java** and **AWS Lambda**, reducing latency by **30%** across **20+** robotic tools
+- Designed **ML-backed** production services in **Python**, improving model inference accuracy by **25%** across **120+** factory machines  
+- Reduced cloud costs by over **$20K/year** by refactoring **REST APIs** and optimizing **Python**-based pipelines with **pytest** and **unittest** for higher reliability  
+- Shipped scalable **REST APIs** with **Python** and integrated **JavaScript** front-end services, cutting latency by **30%** across **20+** robotic tools
 
-### 🔬 SOAR Labs — *Researcher & Published Author*  
+### 🔬 SOAR Labs — *Research Assistant*  
 **Drexel University | Jan **2024** – Aug **2024****  
-- Co-authored a peer-reviewed study published in *Empirical Software Engineering (Springer, **2025**)*, revealing security gaps in **2,430** **LLM-generated code snippets** across **GPT-4**, **Claude 3**, and **LLaMA 3**  
-- Built custom **LLM evaluation tooling** using **pandas** and **scikit-learn** to detect and categorize unsafe code patterns
+- Co-authored a peer-reviewed study published in *Empirical Software Engineering (Springer, **2025**)*, revealing security gaps in **LLM-generated code snippets** across **GPT-4**, **Claude 3**, and **LLaMA 3**  
+- Built data visualization dashboards using **pandas** and **matplotlib** to compare LLM security performance across multiple models and highlight common vulnerabilities like SQL injection, insecure deserialization, and cross-site scripting
 
 ### 🩻 CurveBeam AI — *Software Engineer Intern*  
 **Hatfield, PA | Sep **2023** – Mar **2024****  
 - Developed real-time visualization tools in **Python** and **Matplotlib**, improving orthopedic scan workflows and cutting image-processing time by **35%** for **200+** clinic users  
-- Optimized **SQL** queries to sync and manage **1,000+** medical data points/hour, increasing data accuracy and cutting operational complaints by **50%**  
 - Delivered user-driven **UI updates** for **3D imaging software** based on feedback from medical operators, boosting usability and preserving core diagnostic features
 
 ---
